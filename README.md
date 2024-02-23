@@ -15,7 +15,7 @@ O código foi reajustado para calibrar as piscadas indepente da resolução, ao 
 
 CODIGO
 
-mport cv2
+import cv2
 import mediapipe as mp
 from mediapipe.python.solutions.drawing_utils import _normalized_to_pixel_coordinates
 import math
